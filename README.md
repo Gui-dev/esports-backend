@@ -46,6 +46,7 @@ POST /games/:game_id/ads
 	"hourEnd": "15:00",
 	"useVoiceChannel": true
 }
+
 ``` 
 
 <p>Get Discord By Ad</p>
@@ -55,11 +56,13 @@ GET /ads/:ad_id/discord
 ```
 
 <p>List Games</p>
+
 ```bash
 GET /games
 ```
 
 <p>List Ads by Game</>
+
 ```bash
 GET /games/:game_id/ads
 ```
