@@ -2,7 +2,7 @@
   eSports
 </h1>
 <p align="center">
-  <img src="./screens/logo.svg" alt="eSports" title="eSports"/>
+  <img src="./.screens/logo.svg" alt="eSports" title="eSports"/>
 </p>
 
 
